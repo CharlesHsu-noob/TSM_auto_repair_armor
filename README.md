@@ -11,6 +11,9 @@
 - 模組 ID：`repair-armor`
 - 目前版本：`2.2.2`
 
+直接下載編譯好的檔案
+https://drive.google.com/file/d/1SFbt6FVlS8Qp5OsLTighX3QgzJk6r1yA/view?usp=sharing
+
 ## 功能特色
 - **一鍵脫下盔甲**：將穿戴中的盔甲依序移至快捷欄空位。
 - **修理盔甲（2.2.1+）**：在多人模式也可使用的修理流程（視伺服端支援）。
