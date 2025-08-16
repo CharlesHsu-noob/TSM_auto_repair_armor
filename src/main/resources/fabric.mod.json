@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "repair-armor",
+	"version": "${version}",
+	"name": "Repair-Armor-V2",
+	"description": "Only usable on TSM(Taiwan Student Minecraft),automatically Unequip armor and repair it.",
+	"authors": [
+		"charleszxxlaker"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/repair-armor/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.example.RepairArmorV2"
+		],
+		"client": [
+			"com.example.RepairArmorV2Client"
+		]
+	},
+	"mixins": [
+		"repair-armor.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
