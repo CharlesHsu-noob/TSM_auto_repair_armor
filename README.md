@@ -57,7 +57,7 @@ https://drive.google.com/file/d/1SFbt6FVlS8Qp5OsLTighX3QgzJk6r1yA/view?usp=shari
 
 
 ## 已知限制
-只能脫下到快捷欄第一個位置，使用時請將主手調至第一個欄位並確保為空。
+只能脫下到快捷欄從左邊數來第一個空的位置，使用時請將主手調至第一個空欄位。
 
 ## 授權
 - 本專案使用 `LICENSE` 中所述之授權條款。
