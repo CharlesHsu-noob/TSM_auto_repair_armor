@@ -36,8 +36,8 @@ public class RepairArmorV2Client implements ClientModInitializer {
 
     private void randomDelay() {
         try {
-            // 10 to 50 ms inclusive upper bound handling
-            Thread.sleep(ThreadLocalRandom.current().nextInt(10, 51));
+            // 50 to 101 ms inclusive upper bound handling
+            Thread.sleep(ThreadLocalRandom.current().nextInt(50, 101));
         } catch (InterruptedException ignored) {
         }
     }
