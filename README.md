@@ -9,13 +9,13 @@
 - Fabric API：0.119.3+1.21.4
 - Java：21
 - 模組 ID：`repair-armor`
-- 目前版本：`2.2.2`
+- 目前版本：`2.2.3`
 
 免責聲明
 如果用了這個模組被ban了一蓋不負責，使用前請深思熟慮
 
 直接下載編譯好的檔案
-https://drive.google.com/file/d/1SFbt6FVlS8Qp5OsLTighX3QgzJk6r1yA/view?usp=sharing
+https://drive.google.com/file/d/1uuOaz9UER0Sl8rkOKRiJV5N2yfsg8_zz/view?usp=sharing
 
 ## 功能特色
 - **一鍵脫下盔甲**：將穿戴中的盔甲依序移至快捷欄空位。
